@@ -45,4 +45,4 @@ class Config:
         "Bottom Left",
         "Bottom Center",
         "Bottom Right",
-    ]
+    
